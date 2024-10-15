@@ -1,6 +1,5 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect } from "react";
 import "./App.css";
-import { ReactComponent as ThreeDotMenu } from "./assets/3 dot menu.svg";
 import { ReactComponent as DisplayIcon } from "./assets/Display.svg";
 import { ReactComponent as InProgress } from './assets/in-progress.svg';
 import { ReactComponent as Todo } from './assets/To-do.svg';
